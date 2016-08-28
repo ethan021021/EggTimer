@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Eggs
+//  Menu Bars
 //
 //  Created by Ethan Thomas on 8/28/16.
 //  Copyright © 2016 Ethan Thomas. All rights reserved.
